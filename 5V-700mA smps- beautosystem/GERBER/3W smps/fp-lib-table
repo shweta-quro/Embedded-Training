@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name automata_footprints)(type KiCad)(uri D:/shweta/Library/KiCad/Automata_KicadLib/Automata_KicadLib/automata_footprints.pretty)(options "")(descr ""))
+)
